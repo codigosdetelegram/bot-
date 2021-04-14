@@ -3,6 +3,9 @@ import telebot
 import json
 
 
+TOKEN = os.environ['TOKEN']
+CID = os.environ['CID']
+
 
 bot = telebot.TeleBot(TOKEN)
 
