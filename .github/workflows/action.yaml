@@ -1,7 +1,7 @@
 name: Proxy BOT
 on:
   schedule:
-  - cron: "*/6  * * * *"
+  - cron: "*/10  * * * *"
 
 jobs:
   build:
