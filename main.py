@@ -52,3 +52,6 @@ try:
 	bot.delete_message(CID, last_message -5)
 except:
 	print("NO HAY NADA QUE BORRAR")
+
+	
+print("FIN")
